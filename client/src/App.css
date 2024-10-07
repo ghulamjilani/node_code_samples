@@ -1,0 +1,38 @@
+.MuiTypography-root {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f3f4f8;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #001c32;
+  border-radius: 50px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #001c32;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 40px;
+}
