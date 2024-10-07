@@ -1,4 +1,4 @@
-# Full Stack Application (React + Node js)
+# Full Stack Application (React + Node.js)
 ## Backend: AdonisJS Folder Structure
 
 The typical AdonisJS application has a clean structure to manage different components like routing, controllers, models, etc.
