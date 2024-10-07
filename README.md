@@ -57,13 +57,13 @@ git clone https://github.com/your-repo-url.git
 2. Navigate to the backend and frontend directories and install dependencies:
 - For backend:
 ```bash
-cd backend
+cd server
 node ace migration:run
 npm install
 ```
 - For frontend:
 ```bash
-cd frontend
+cd client
 npm install
 ```
 3. Configure environment variables for both the backend and frontend by creating .env files and setting up the necessary environment variables as per your development and production needs.
